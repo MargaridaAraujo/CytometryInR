@@ -8,6 +8,7 @@ project:
     - 00_*
     - 01_*
     - 02_*
+    - 03_*
 website:
   google-analytics: "G-LZ35J3XE4D"
   announcement: 
